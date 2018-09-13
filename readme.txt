@@ -1,9 +1,9 @@
 1.
-pom.xml添加：
+pom.xml添加(springboot要使用1.x版本)：
 <dependency>
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-starter-aop</artifactId>
-	<version>${spring.boot.version}</version>
+	<version>1.5.9.RELEASE</version>
 </dependency>
 
 2.
